@@ -1,4 +1,14 @@
-1번
-^^
-머쥐되라고씨방
-<head></head>
+<html>
+	<head>
+		<title>GIT 수업</title>
+	</head>
+	<body>
+		<header>
+			<h1>Git</h1>
+		</header>
+		<ul>
+			<li>Git 소개</li>
+			<li>버전</li>
+		</ul>
+	</body>
+</html>
