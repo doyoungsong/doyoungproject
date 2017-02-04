@@ -19,6 +19,7 @@
 			<li>pull</li>
 			<li>push.egoing</li>
 			<li>push.leezhe</li>
+			<li>conflict.riche</li>
 		</ul>
 	</body>
 </html>
